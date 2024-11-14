@@ -96,7 +96,7 @@ The grasshopper definition is developed in Rhino 8 SR10 (8.10.24228.13001, 2024-
 ```bibtex
 @inproceedings{vangelova2024sigradi,
   title = {A Computational Framework for Assessing Solar Photovoltaic Potential of Buildings Based on LiDAR and Building Footprint Data},
-  author = {Vangelova, Silvia},
+  author = {Vangelova, Silvia and Kastner, Patrick},
   year = {2024},
   booktitle = {Proceedings of SIGRADI 2024},
   institution = {Georgia Institute of Technology},
