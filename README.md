@@ -37,7 +37,7 @@ Environment set-up:
   - env\Scripts\activate
   - pip install -r requirements.txt
 
-## Running the Solar Potential Analysis script in Grsshopper instructions
+## Running the Solar Potential Analysis script in Grasshopper instructions
 
 <p align="center"><img src="https://github.com/SustainableUrbanSystemsLab/Assessing-Solar-Potential-of-Buildings-Using-LiDAR-and-Footprint-Data/blob/main/Resources/Grasshopper%20canvas%20guide.png" height="400px"></p>
 
@@ -59,7 +59,7 @@ The grasshopper definition is developed in Rhino 8 SR10 (8.10.24228.13001, 2024-
     import laspy
     ```
 
-3. To install python packages in Rhino 8 you can either install them from the Terminal or use the ```# r: %package name%``` notation
+3. To install Python packages in Rhino 8 you can either install them from the Terminal or use the ```# r: %package name%``` notation
    
    Using Terminal
       1. Open command prompt
